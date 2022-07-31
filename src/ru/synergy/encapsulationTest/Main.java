@@ -1,4 +1,4 @@
-package ru.synergy.constructorTest;
+package ru.synergy.encapsulationTest;
 
 public class Main {
     public static void main(String[] args) throws Exception{
